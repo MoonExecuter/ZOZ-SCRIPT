@@ -16,5 +16,5 @@ def show_my_name(name):
 
 if __name__ == "__main__":
     # اكتب الاسم اللي انت عاوزه هنا
-    my_name = "MARIAM HACK" 
+    my_name = "MARIAM H1ACK" 
     show_my_name(sEXuSACOCKIES)
